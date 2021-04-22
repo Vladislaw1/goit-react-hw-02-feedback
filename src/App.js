@@ -4,7 +4,7 @@ import CafeStatistic from './components/CafeStatistic'
 function App() {
   return (
     <>
-        <CafeStatistic title="Please leave feedback" />
+        <CafeStatistic />
     </>
   );
 }
